@@ -2,7 +2,7 @@
 setlocal
 
 set "SRC=%~dp0After Effects Master Icon Pack"
-set "DEST=%APPDATA%\UlanziStudio\Icons\After_Effects_Master"
+set "DEST=%APPDATA%\Ulanzi\UlanziDeck\Icons\After_Effects_Master"
 
 echo Installing After Effects Master Icon Pack...
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 BASE="$(cd "$(dirname "$0")" && pwd)"
 SRC="$BASE/After Effects Master Icon Pack"
-DEST="$HOME/Library/Application Support/UlanziStudio/Icons/After_Effects_Master"
+DEST="$HOME/Library/Application Support/Ulanzi/UlanziDeck/Icons/After_Effects_Master"
 
 echo "Installing After Effects Master Icon Pack..."
 
