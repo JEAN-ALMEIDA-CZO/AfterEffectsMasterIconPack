@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge)
 
-🔗 **Repository:** [github.com/JEAN-ALMEIDA-CZO/AfterEffectsMasterIconPack](https://github.com/JEAN-ALMEIDA-CZO/AfterEffectsMasterIconPack)
-
 ![After Effects Master Banner](After_Effects_Master_Icon_Pack_banner.jpeg)
 
 A detailed, command-accurate icon pack (`.png`) designed for **Ulanzi Studio** and **Ulanzi Deck** users.
@@ -143,5 +141,3 @@ Feel free to use, modify, expand, and share it.
 If you enjoy this icon pack, consider giving this repository a **⭐ Star** on GitHub.
 
 It helps other Ulanzi users discover the project and supports future updates.
-
-👉 https://github.com/JEAN-ALMEIDA-CZO/AfterEffectsMasterIconPack
